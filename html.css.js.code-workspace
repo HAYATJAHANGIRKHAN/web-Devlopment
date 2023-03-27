@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../PROJECTS/hjk"
+		},
+		{
+			"path": "../../javaScript/javaScriptCode"
+		},
+		{
+			"path": "../javascript"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hjk"
+	}
+}
